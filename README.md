@@ -1,7 +1,5 @@
 # SRSCp1
-Stage1 1stProject
+First Stage of First Project for Network and Computer Systems Security class in University
 
 
 
-
-Os ficheiros do projeto não estão organizados pois tivemos um problema com os imports e as packages do java. Pedimos desculpa.
